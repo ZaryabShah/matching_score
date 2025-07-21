@@ -1,0 +1,25 @@
+{
+    "proxy": {
+        "enabled": true,
+        "url": "http://250621Ev04e-resi_region-US_California:5PjDM1IoS0JSr2c@ca.proxy-jet.io:1010"
+    },
+    "location": {
+        "zip": "20109",
+        "state": "VA",
+        "latitude": "38.800",
+        "longitude": "-77.550",
+        "store_id": "2323"
+    },
+    "scraping": {
+        "min_delay": 1,
+        "max_delay": 3,
+        "max_retries": 3,
+        "timeout": 30,
+        "chunk_size": 25
+    },
+    "output": {
+        "save_to_file": true,
+        "output_directory": "search_results",
+        "include_metadata": true
+    }
+}

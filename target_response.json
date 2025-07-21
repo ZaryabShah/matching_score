@@ -1,0 +1,3048 @@
+{
+    "data": {
+        "product_summaries": [
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1001689725",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Wicker Egg Chair with Ottoman, Egg Basket Lounge Chair with Thick Cushion, Comfy Egg Rattan Seat for Indoor Outdoor Patio Porch Backyard,Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/wicker-egg-chair-with-ottoman-egg-basket-lounge-chair-with-thick-cushion-comfy-egg-rattan-seat-for-indoor-outdoor-patio-porch-backyard-gray/-/A-1001689725"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10016041"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1001689724",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Wicker Egg Chair with Ottoman, Egg Basket Lounge Chair with Thick Cushion, Comfy Egg Rattan Seat for Indoor Outdoor Patio Porch Backyard"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/wicker-egg-chair-with-ottoman-egg-basket-lounge-chair-with-thick-cushion-comfy-egg-rattan-seat-for-indoor-outdoor-patio-porch-backyard/-/A-1001689724"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10016041"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1001689725",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-24",
+                                "max_delivery_date": "2025-07-24",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "84317924",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Task and Office Chairs",
+                            "type": "240061"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Anika Velvet Height-adjustable Swivel Task Office Chair with Button-tufted Back and Gold Base | Karat Home - Fuchsia"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/anika-velvet-height-adjustable-swivel-task-office-chair-with-button-tufted-back-and-gold-base-karat-home-fuchsia/-/A-84317924"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 14,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10008420"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "84317915",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Task and Office Chairs",
+                                "type": "240061"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Anika Velvet Height-adjustable Swivel Task Office Chair with Button-tufted Back and Gold Base | Karat Home"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/anika-velvet-height-adjustable-swivel-task-office-chair-with-button-tufted-back-and-gold-base-karat-home/-/A-84317915"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 14,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10008420"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "84317924",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T06:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-25",
+                                "max_delivery_date": "2025-07-25",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "93363636",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Comfortable Orange Arms Chair,Living Room Chair With Waved Arms,Accent Lounge Chairs For Living Room,Teddy Fabric Reading Chair For Bedroom-Cuddlewood"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/comfortable-orange-arms-chair-living-room-chair-with-waved-arms-accent-lounge-chairs-for-living-room-teddy-fabric-reading-chair-for-bedroom-cuddlewood/-/A-93363636"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10019982"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "93363634",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Comfortable Arms Chair,Living Room Chair With Waved Arms,Accent Lounge Chairs For Living Room,Teddy Fabric Reading Chair For Bedroom-Cuddlewood"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/comfortable-arms-chair-living-room-chair-with-waved-arms-accent-lounge-chairs-for-living-room-teddy-fabric-reading-chair-for-bedroom-cuddlewood/-/A-93363634"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10019982"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "93363636",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T07:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-23",
+                                "max_delivery_date": "2025-07-23",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004165699",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "OUTSUPPLY Dark Gray Accent Chair, Arm Chair, Living Room Chairs with Pillow Upholstered, Reading Chair for Living Room, Bedroom, Balcony"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/outsupply-dark-gray-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair-for-living-room-bedroom-balcony/-/A-1004165699"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10030528"
+                        }
+                    ],
+                    "eligibility_rules": {}
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1004165701",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "OUTSUPPLY Accent Chair, Arm Chair, Living Room Chairs with Pillow Upholstered, Reading Chair for Living Room, Bedroom, Balcony"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/outsupply-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair-for-living-room-bedroom-balcony/-/A-1004165701"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10030528"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1004165699",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T14:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004448663",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Mid-Century Modern Accent Chair, Arm Chair Living Room Chairs with Pillow Upholstered Reading Chair"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/mid-century-modern-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair/-/A-1004448663"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10029583"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "fulfillment": {
+                    "product_id": "1004448663",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T17:30:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003149183",
+                "item": {
+                    "relationship_type_code": "SA",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "MYINDA Mid-Century Modern Chair, Living Room Chair with Solid Wood Frame,Wingback Chair for Bedroom, Reading Room, Camel"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/myinda-mid-century-modern-chair-living-room-chair-with-solid-wood-frame-wingback-chair-for-bedroom-reading-room-camel/-/A-1003149183"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10028045"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "fulfillment": {
+                    "product_id": "1003149183",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T22:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004488126",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Power Recliner Chair Swivel Glider Upholstered Faux Leather Nursery Rocker Reclining Sofa Chair with Charging Port, Curved Armrests & Padded Backrest"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/power-recliner-chair-swivel-glider-upholstered-faux-leather-nursery-rocker-reclining-sofa-chair-with-charging-port-curved-armrests-padded-backrest/-/A-1004488126"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10016041"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1004488127",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Power Recliner Chair Swivel Glider Upholstered Faux Leather Nursery Rocker Reclining Sofa Chair with Charging Port, Curved Armrests & Padded Backrest"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/power-recliner-chair-swivel-glider-upholstered-faux-leather-nursery-rocker-reclining-sofa-chair-with-charging-port-curved-armrests-padded-backrest/-/A-1004488127"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10016041"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1004488126",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-24",
+                                "max_delivery_date": "2025-07-24",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "87664302",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Araceli Traditional Wooden Upholstered Floral Armchair with Wingback and Nailhead Trim | ARTFUL LIVING DESIGN-BLUE"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/araceli-traditional-wooden-upholstered-floral-armchair-with-wingback-and-nailhead-trim-artful-living-design-blue/-/A-87664302"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10010700"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "87664269",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Araceli Traditional Wooden Upholstered Floral Armchair with Wingback and Nailhead Trim | ARTFUL LIVING DESIGN"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/araceli-traditional-wooden-upholstered-floral-armchair-with-wingback-and-nailhead-trim-artful-living-design/-/A-87664269"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10010700"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "87664302",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T06:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-25",
+                                "max_delivery_date": "2025-07-25",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "88387728",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Giampiero Living Room Comfty Armchair with Nailhead Trims | ARTFUL LIVING DESIGN-BEIGE"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/giampiero-living-room-comfty-armchair-with-nailhead-trims-artful-living-design-beige/-/A-88387728"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10010700"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "88387720",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Giampiero Transitional Living Room Comfty Armchair with Nailhead Trims | ARTFUL LIVING DESIGN"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/giampiero-living-room-comfty-armchair-with-nailhead-trims-artful-living-design/-/A-88387720"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10010700"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "88387728",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T08:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-29",
+                                "max_delivery_date": "2025-07-29",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000691449",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "NicBex Accent Chair Modern Arm Chair Living Room Chair Comfy Chair Lounge Chair for Reading Room, Bedroom, Light Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-arm-chair-living-room-chair-comfy-chair-lounge-chair-for-reading-room-bedroom-light-gray/-/A-1000691449"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000691446",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "NicBex Accent Chair Modern Arm Chair Living Room Chair Comfy Chair Lounge Chair for Reading Room, Bedroom"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-arm-chair-living-room-chair-comfy-chair-lounge-chair-for-reading-room-bedroom/-/A-1000691446"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000691449",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "92687812",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Velvet Chesterfield Chair for Living Room Accent Armhair with Deep Cushion in Gray-Morden Fort"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/velvet-chesterfield-chair-for-living-room-accent-armhair-with-deep-cushion-in-gray-morden-fort/-/A-92687812"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10021562"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "92687813",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Velvet Chesterfield Chair for Living Room Accent Armhair with Deep Cushion in -Morden Fort"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/velvet-chesterfield-chair-for-living-room-accent-armhair-with-deep-cushion-in-morden-fort/-/A-92687813"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10021562"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "92687812",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T15:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000903515",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "NicBex Accent Chair Modern Lounge Chair Comfy Chair with Upholstery Arm Chair Living Room Chair for Reading Room, Bedroom, Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-lounge-chair-comfy-chair-with-upholstery-arm-chair-living-room-chair-for-reading-room-bedroom-gray/-/A-1000903515"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000903513",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "NicBex Accent Chair Modern Lounge Chair Comfy Chair with Upholstery Arm Chair Living Room Chair for Reading Room, Bedroom"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-lounge-chair-comfy-chair-with-upholstery-arm-chair-living-room-chair-for-reading-room-bedroom/-/A-1000903513"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000903515",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004421714",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "MYINDA Corduroy Mid-Century Modern Accent Chair, Arm Chair Living Room Chairs with Pillow Upholstered Reading Chair"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/myinda-corduroy-mid-century-modern-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair/-/A-1004421714"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10028045"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1004421713",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "MYINDA Corduroy Mid-Century Modern Accent Chair, Arm Chair Living Room Chairs with Pillow Upholstered Reading Chair"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/myinda-corduroy-mid-century-modern-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair/-/A-1004421713"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10028045"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1004421714",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T22:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000854058",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "COMHOMA Mid-Century Accent Chair, Modern Upholstered Living Room Chairs with Solid Wood Armrest, White"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/comhoma-mid-century-accent-chair-modern-upholstered-living-room-chairs-with-solid-wood-armrest-white/-/A-1000854058"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10022441"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000854051",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "COMHOMA Mid-Century Accent Chair, Modern Upholstered Living Room Chairs with Solid Wood Armrest"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/comhoma-mid-century-accent-chair-modern-upholstered-living-room-chairs-with-solid-wood-armrest/-/A-1000854051"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10022441"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000854058",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T08:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-29",
+                                "max_delivery_date": "2025-07-29",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003724487",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Sapphtopaz 1pc Boucle Swivel Barrel Chair Accent Chair Solid Wood Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room, Blue"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/sapphtopaz-1pc-boucle-swivel-barrel-chair-accent-chair-solid-wood-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room-blue/-/A-1003724487"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10028823"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1003724488",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Sapphtopaz 1pc Boucle Swivel Barrel Chair Accent Chair Solid Wood Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/sapphtopaz-1pc-boucle-swivel-barrel-chair-accent-chair-solid-wood-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room/-/A-1003724488"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10028823"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1003724487",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T14:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003724525",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Sapphtopaz Accent Chair with Durable Square Metal Frame Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room, Rose"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/sapphtopaz-accent-chair-with-durable-square-metal-frame-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room-rose/-/A-1003724525"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10028823"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1003724516",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Sapphtopaz Accent Chair with Durable Square Metal Frame Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/sapphtopaz-accent-chair-with-durable-square-metal-frame-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room/-/A-1003724516"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10028823"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1003724525",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T14:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004852656",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "KTMBDW Sofa Accent Chair, 360\u00a1\u00e3 Swivel Chair with Side Pockets, Comfy Soft Chenille Arm Chairs Living Room, Bedroom, and Hotel, Green"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/ktmbdw-sofa-accent-chair-360-swivel-chair-with-side-pockets-comfy-soft-chenille-arm-chairs-living-room-bedroom-and-hotel-green/-/A-1004852656"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10026624"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1004852657",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "KTMBDW Sofa Accent Chair, 360\u00b0 Swivel Chair with Side Pockets, Comfy Soft Chenille Arm Chairs Living Room, Bedroom, and Hotel"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/ktmbdw-sofa-accent-chair-360-swivel-chair-with-side-pockets-comfy-soft-chenille-arm-chairs-living-room-bedroom-and-hotel/-/A-1004852657"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10026624"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1004852656",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T22:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1001770975",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "CENGHU Modern Accent Chair, Fabric Upholstered 1pc Arm Chair, Living Room Chair with Walnut Finish Wood, Cushion Back and Seat Furniture, Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/cenghu-modern-accent-chair-fabric-upholstered-1pc-arm-chair-living-room-chair-with-walnut-finish-wood-cushion-back-and-seat-furniture-gray/-/A-1001770975"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1001770978",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "CENGHU Modern Accent Chair, Fabric Upholstered 1pc Arm Chair, Living Room Chair with Walnut Finish Wood, Cushion Back and Seat Furniture"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/cenghu-modern-accent-chair-fabric-upholstered-1pc-arm-chair-living-room-chair-with-walnut-finish-wood-cushion-back-and-seat-furniture/-/A-1001770978"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1001770975",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003724531",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Sapphtopaz Accent Chair Tufted Armchair Mid-Century Modern Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room, Dark Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/sapphtopaz-accent-chair-tufted-armchair-mid-century-modern-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room-dark-gray/-/A-1003724531"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10028823"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1003724530",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Sapphtopaz Accent Chair Tufted Armchair Mid-Century Modern Lounge Chair Modern Armchair Living Room Chair Comfy Chair for Living Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/sapphtopaz-accent-chair-tufted-armchair-mid-century-modern-lounge-chair-modern-armchair-living-room-chair-comfy-chair-for-living-room/-/A-1003724530"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10028823"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1003724531",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T14:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003328451",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "CAVINAS Modern Accent Chair, Velvet Upholstered Arm Chair, Living Room Chair Bedroom Chair Home Chair with Black Legs, Single Chair Sofa Chair, Green"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/cavinas-modern-accent-chair-velvet-upholstered-arm-chair-living-room-chair-bedroom-chair-home-chair-with-black-legs-single-chair-sofa-chair-green/-/A-1003328451"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10027505"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1003328434",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "CAVINAS Modern Accent Chair, Upholstered Arm Chair, Living Room Chair Bedroom Chair Home Chair with Black Legs, Single Chair Sofa Chair"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/cavinas-modern-accent-chair-upholstered-arm-chair-living-room-chair-bedroom-chair-home-chair-with-black-legs-single-chair-sofa-chair/-/A-1003328434"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10027505"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1003328451",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T21:30:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1003411605",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Accent Chair, Living Room Chairs with Solid Wood Frame, Mid Century Modern Chair Ergonomic Backrest for Bedroom, Reading Room Beige"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/accent-chair-living-room-chairs-with-solid-wood-frame-mid-century-modern-chair-ergonomic-backrest-for-bedroom-reading-room-beige/-/A-1003411605"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10016041"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1003411601",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Accent Chair, Living Room Chairs with Solid Wood Frame, Mid Century Modern Chair Ergonomic Backrest for Bedroom, Reading Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/accent-chair-living-room-chairs-with-solid-wood-frame-mid-century-modern-chair-ergonomic-backrest-for-bedroom-reading-room/-/A-1003411601"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10016041"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1003411605",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-24",
+                                "max_delivery_date": "2025-07-24",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1002782051",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Costway Mid Century Modern Accent Chair Living Room Armchair with Rattan Arms Wooden Frame Brown"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/costway-mid-century-modern-accent-chair-living-room-armchair-with-rattan-arms-wooden-frame-brown/-/A-1002782051"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10006240"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1002782052",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Costway Mid Century Modern Accent Chair Living Room Armchair with Rattan Arms Wooden Frame Brown/Natural"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/costway-mid-century-modern-accent-chair-living-room-armchair-with-rattan-arms-wooden-frame-brown-natural/-/A-1002782052"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10006240"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1002782051",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T17:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-24",
+                                "max_delivery_date": "2025-07-24",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1002221575",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Costway Set of 4 Rattan Accent Chairs Fabric Dining Chairs Modern Living Room Chairs Gray"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/costway-set-of-4-rattan-accent-chairs-leathaire-dining-chairs-modern-living-room-chairs-gray/-/A-1002221575"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10006240"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1002221573",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Costway Set of 2/4 Rattan Accent Chairs Fabric Dining Chairs Modern Living Room Chairs Gray"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/costway-set-of-2-4-rattan-accent-chairs-fabric-dining-chairs-modern-living-room-chairs-gray/-/A-1002221573"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10006240"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1002221575",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T19:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-29",
+                                "max_delivery_date": "2025-07-29",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000993536",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "NicBex Linen Accent Chair,Upholstered Living Room Chairs with High Backrest,Mid-Century Modern Armchair,Accent Chairs for Living Room,Beige"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nicbex-linen-accent-chair-upholstered-living-room-chairs-with-high-backrest-mid-century-modern-armchair-recliner-chairs-for-living-room-beige/-/A-1000993536"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000993527",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "NicBex Linen Accent Chair,Upholstered Living Room Chairs with High Backrest,Mid-Century Modern Armchair,Accent Chairs for Living Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nicbex-linen-accent-chair-upholstered-living-room-chairs-with-high-backrest-mid-century-modern-armchair-recliner-chairs-for-living-room/-/A-1000993527"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000993536",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1002221571",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Costway Set of 2 Rattan Accent Chairs Fabric Dining Chairs Modern Living Room Chairs White"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/costway-set-of-2-rattan-accent-chairs-leathaire-dining-chairs-modern-living-room-chairs-white/-/A-1002221571"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10006240"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1002221572",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Costway Set of 2/4 Rattan Accent Chairs Fabric Dining Chairs Modern Living Room Chairs White"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/costway-set-of-2-4-rattan-accent-chairs-fabric-dining-chairs-modern-living-room-chairs-white/-/A-1002221572"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10006240"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1002221571",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T19:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-29",
+                                "max_delivery_date": "2025-07-29",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "90305363",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "DHP Jaya Accent Chair, Living Room Armchairs, Blue Stripe"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/dhp-jaya-accent-chair-living-room-armchairs-blue-stripe/-/A-90305363"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10003380"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "90305362",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "DHP Jaya Accent Chair"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/dhp-jaya-accent-chair/-/A-90305362"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10003380"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "90305363",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T17:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-29",
+                                "max_delivery_date": "2025-07-29",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000968208",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "NicBex Faux Fur Fabric Swivel Accent Chair,Upholstered Swivel Living Room Chairs with Barrel-Curved Backrest,Accent Chairs for Living Room,Grey"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nicbex-faux-fur-fabric-swivel-accent-chair-upholstered-swivel-living-room-chairs-with-barrel-curved-backrest-recliner-chairs-for-living-room-grey/-/A-1000968208"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000968202",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "NicBex Faux Fur Fabric Swivel Accent Chair,Upholstered Swivel Living Room Chairs with Barrel-Curved Backrest,Accent Chairs for Living Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nicbex-faux-fur-fabric-swivel-accent-chair-upholstered-swivel-living-room-chairs-with-barrel-curved-backrest-recliner-chairs-for-living-room/-/A-1000968202"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000968208",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1000993490",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "NicBex Accent Chair Modern Living Room Chair with Metal Legs Sofa Chair for Apartment, Bedroom, Reading Room, Green"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-living-room-chair-with-metal-legs-sofa-chair-for-apartment-bedroom-reading-room-green/-/A-1000993490"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10020941"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1000993492",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "NicBex Accent Chair Modern Living Room Chair with Metal Legs Sofa Chair for Apartment, Bedroom, Reading Room"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/nicbex-accent-chair-modern-living-room-chair-with-metal-legs-sofa-chair-for-apartment-bedroom-reading-room/-/A-1000993492"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10020941"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1000993490",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:00:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            },
+            {
+                "__typename": "ProductSummary",
+                "tcin": "1004866750",
+                "item": {
+                    "relationship_type_code": "VC",
+                    "product_classification": {
+                        "item_type": {
+                            "name": "Accent Chairs",
+                            "type": "239651"
+                        }
+                    },
+                    "product_description": {
+                        "title": "Mid-Century Accent Chairs,Modern Living Room Chairs w/Linen Fabric,Upholstered Fabric Accent Armchair,Sofa Chair W/Solid Wood Legs, Camel"
+                    },
+                    "enrichment": {
+                        "buy_url": "https://www.target.com/p/mid-century-accent-chairs-modern-living-room-chairs-w-linen-fabric-upholstered-fabric-accent-armchair-sofa-chair-w-solid-wood-legs-camel/-/A-1004866750"
+                    },
+                    "fulfillment": {
+                        "is_marketplace": true
+                    },
+                    "merchandise_classification": {
+                        "class_id": 8,
+                        "department_id": 249
+                    },
+                    "product_vendors": [
+                        {
+                            "id": "10030087"
+                        }
+                    ]
+                },
+                "free_shipping": {
+                    "enabled": true
+                },
+                "parent": {
+                    "__typename": "ParentProductSummary",
+                    "tcin": "1004866747",
+                    "item": {
+                        "relationship_type_code": "VAP",
+                        "product_classification": {
+                            "item_type": {
+                                "name": "Accent Chairs",
+                                "type": "239651"
+                            }
+                        },
+                        "product_description": {
+                            "title": "Mid-Century Accent Chairs,Modern Living Room Chairs w/Linen Fabric,Upholstered Fabric Accent Armchair,Sofa Chair With Wood Legs,Accent Chairs"
+                        },
+                        "enrichment": {
+                            "buy_url": "https://www.target.com/p/mid-century-accent-chairs-modern-living-room-chairs-w-linen-fabric-upholstered-fabric-accent-armchair-sofa-chair-with-wood-legs-accent-chairs/-/A-1004866747"
+                        },
+                        "fulfillment": {
+                            "is_marketplace": true
+                        },
+                        "merchandise_classification": {
+                            "class_id": 8,
+                            "department_id": 249
+                        },
+                        "product_vendors": [
+                            {
+                                "id": "10030087"
+                            }
+                        ]
+                    }
+                },
+                "fulfillment": {
+                    "product_id": "1004866750",
+                    "is_out_of_stock_in_all_store_locations": true,
+                    "sold_out": false,
+                    "shipping_options": {
+                        "availability_status": "IN_STOCK",
+                        "loyalty_availability_status": "IN_STOCK",
+                        "services": [
+                            {
+                                "cutoff": "2025-07-21T13:30:00Z",
+                                "shipping_method_id": "STANDARD",
+                                "min_delivery_date": "2025-07-28",
+                                "max_delivery_date": "2025-07-28",
+                                "is_two_day_shipping": false,
+                                "is_base_shipping_method": true
+                            }
+                        ]
+                    },
+                    "store_options": [
+                        {
+                            "search_response_store_type": "PRIMARY",
+                            "location_available_to_promise_quantity": 0.0,
+                            "location_id": "2323",
+                            "store": {
+                                "location_name": "Manassas West"
+                            },
+                            "order_pickup": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "ship_to_store": {
+                                "availability_status": "UNAVAILABLE"
+                            },
+                            "in_store_only": {
+                                "availability_status": "NOT_SOLD_IN_STORE"
+                            }
+                        }
+                    ],
+                    "scheduled_delivery": {
+                        "availability_status": "UNAVAILABLE",
+                        "location_available_to_promise_quantity": 0.0
+                    }
+                }
+            }
+        ]
+    }
+}

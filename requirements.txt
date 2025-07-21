@@ -1,0 +1,4 @@
+curl_cffi>=0.5.0
+requests>=2.31.0
+dataclasses>=0.6
+urllib3>=1.26.0
