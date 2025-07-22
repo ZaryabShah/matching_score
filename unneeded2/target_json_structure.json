@@ -1,0 +1,18 @@
+{
+  "top_level_keys": [
+    "props",
+    "page",
+    "query",
+    "buildId",
+    "assetPrefix",
+    "isFallback",
+    "isExperimentalCompile",
+    "dynamicIds",
+    "gip",
+    "appGip",
+    "scriptLoader"
+  ],
+  "has_props": true,
+  "has_page_props": true,
+  "has_preloaded_queries": false
+}

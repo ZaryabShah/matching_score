@@ -1,0 +1,85 @@
+{
+  "search_term": "Amazon Basics amazon basics ergonomic",
+  "timestamp": "20250722_220926",
+  "total_comparisons": 5,
+  "amazon_product": {
+    "title": "Amazon Basics Ergonomic High-Back Desk Chair, Comfortable Flip-Up Armrests, Contoured Mesh Seat, Swivel, Black, 25.5\"D x 26.25\"W x 49.25\"H",
+    "asin": "B08KTN2NSW",
+    "brand": "Amazon Basics"
+  },
+  "comparisons": [
+    {
+      "rank": 1,
+      "target_product": {
+        "title": "Amazon Fire HD 8 Kids Pro Tablet (2024)",
+        "tcin": "94148408",
+        "brand": "Amazon",
+        "price": "$139.99"
+      },
+      "match_score": 57.0,
+      "confidence": "Low",
+      "score_breakdown": {
+        "brand_match": 32.0,
+        "price_match": 25
+      }
+    },
+    {
+      "rank": 2,
+      "target_product": {
+        "title": "Amazon Fire HD 10&#34; 32GB Tablet (2023 Release) - Black",
+        "tcin": "89741724",
+        "brand": "Amazon",
+        "price": "$139.99"
+      },
+      "match_score": 57.0,
+      "confidence": "Low",
+      "score_breakdown": {
+        "brand_match": 32.0,
+        "price_match": 25
+      }
+    },
+    {
+      "rank": 3,
+      "target_product": {
+        "title": "Amazon Kindle Paperwhite (2024)",
+        "tcin": "94165655",
+        "brand": "Amazon",
+        "price": "$159.99"
+      },
+      "match_score": 57.0,
+      "confidence": "Low",
+      "score_breakdown": {
+        "brand_match": 32.0,
+        "price_match": 25
+      }
+    },
+    {
+      "rank": 4,
+      "target_product": {
+        "title": "Amazon Echo Studio Smart Speaker - Black",
+        "tcin": "81412943",
+        "brand": "Amazon",
+        "price": "$199.99"
+      },
+      "match_score": 32.0,
+      "confidence": "Very Low",
+      "score_breakdown": {
+        "brand_match": 32.0
+      }
+    },
+    {
+      "rank": 5,
+      "target_product": {
+        "title": "Amazon Kindle 6\" e-Reader (2024)",
+        "tcin": "93604795",
+        "brand": "Amazon",
+        "price": "$109.99"
+      },
+      "match_score": 32.0,
+      "confidence": "Very Low",
+      "score_breakdown": {
+        "brand_match": 32.0
+      }
+    }
+  ]
+}

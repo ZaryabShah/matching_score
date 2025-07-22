@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "search_term": "gaming chair",
+    "offset": 0,
+    "limit": 50,
+    "timestamp": "2025-07-22T16:22:33.543777",
+    "total_found": 4
+  },
+  "search_term": "gaming chair",
+  "total_products": 4,
+  "timestamp": "2025-07-22T16:22:46.865133",
+  "products": [
+    {
+      "tcin": "1001689725",
+      "title": "Wicker Egg Chair with Ottoman, Egg Basket Lounge Chair with Thick Cushion, Comfy Egg Rattan Seat for Indoor Outdoor Patio Porch Backyard,Gray",
+      "price": "$240.67",
+      "original_price": "$601.68",
+      "brand": "",
+      "rating": null,
+      "review_count": null,
+      "image_url": null,
+      "product_url": "https://www.target.com/p/wicker-egg-chair-with-ottoman-egg-basket-lounge-chair-with-thick-cushion-comfy-egg-rattan-seat-for-indoor-outdoor-patio-porch-backyard-gray/-/A-1001689725",
+      "availability": "Limited Availability",
+      "is_marketplace": true,
+      "fulfillment_type": "Store Pickup"
+    },
+    {
+      "tcin": "84317924",
+      "title": "Anika Velvet Height-adjustable Swivel Task Office Chair with Button-tufted Back and Gold Base | Karat Home - Fuchsia",
+      "price": "$179.99",
+      "original_price": "$233.99",
+      "brand": "",
+      "rating": null,
+      "review_count": null,
+      "image_url": null,
+      "product_url": "https://www.target.com/p/anika-velvet-height-adjustable-swivel-task-office-chair-with-button-tufted-back-and-gold-base-karat-home-fuchsia/-/A-84317924",
+      "availability": "Limited Availability",
+      "is_marketplace": true,
+      "fulfillment_type": "Store Pickup"
+    },
+    {
+      "tcin": "93363636",
+      "title": "Comfortable Orange Arms Chair,Living Room Chair With Waved Arms,Accent Lounge Chairs For Living Room,Teddy Fabric Reading Chair For Bedroom-Cuddlewood",
+      "price": "$229.99",
+      "original_price": "$349.99",
+      "brand": "",
+      "rating": null,
+      "review_count": null,
+      "image_url": null,
+      "product_url": "https://www.target.com/p/comfortable-orange-arms-chair-living-room-chair-with-waved-arms-accent-lounge-chairs-for-living-room-teddy-fabric-reading-chair-for-bedroom-cuddlewood/-/A-93363636",
+      "availability": "Limited Availability",
+      "is_marketplace": true,
+      "fulfillment_type": "Store Pickup"
+    },
+    {
+      "tcin": "1004165699",
+      "title": "OUTSUPPLY Dark Gray Accent Chair, Arm Chair, Living Room Chairs with Pillow Upholstered, Reading Chair for Living Room, Bedroom, Balcony",
+      "price": "$145.41",
+      "original_price": "$290.83",
+      "brand": "",
+      "rating": null,
+      "review_count": null,
+      "image_url": null,
+      "product_url": "https://www.target.com/p/outsupply-dark-gray-accent-chair-arm-chair-living-room-chairs-with-pillow-upholstered-reading-chair-for-living-room-bedroom-balcony/-/A-1004165699",
+      "availability": "Limited Availability",
+      "is_marketplace": true,
+      "fulfillment_type": "Store Pickup"
+    }
+  ]
+}

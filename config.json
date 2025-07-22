@@ -1,25 +1,48 @@
 {
-    "proxy": {
-        "enabled": true,
-        "url": "http://250621Ev04e-resi_region-US_California:5PjDM1IoS0JSr2c@ca.proxy-jet.io:1010"
+  "proxy": {
+    "enabled": true,
+    "url": "http://250621Ev04e-resi_region-US_California:5PjDM1IoS0JSr2c@ca.proxy-jet.io:1010"
+  },
+  "location": {
+    "zip": "20109",
+    "state": "VA", 
+    "latitude": "38.800",
+    "longitude": "-77.550", 
+    "store_id": "2323"
+  },
+  "scraping": {
+    "min_delay": 1,
+    "max_delay": 3,
+    "timeout": 30,
+    "user_agents": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    ]
+  },
+  "scoring": {
+    "weights": {
+      "upc_match": 100,
+      "model_match": 80,
+      "brand_match": 40,
+      "title_similarity_high": 70,
+      "title_similarity_medium": 50,
+      "title_similarity_low": 30,
+      "dimensions_exact": 60,
+      "dimensions_close": 40,
+      "weight_exact": 50,
+      "weight_close": 30,
+      "price_match": 25,
+      "category_match": 20,
+      "color_match": 15,
+      "material_match": 15,
+      "feature_keyword": 5
     },
-    "location": {
-        "zip": "20109",
-        "state": "VA",
-        "latitude": "38.800",
-        "longitude": "-77.550",
-        "store_id": "2323"
-    },
-    "scraping": {
-        "min_delay": 1,
-        "max_delay": 3,
-        "max_retries": 3,
-        "timeout": 30,
-        "chunk_size": 25
-    },
-    "output": {
-        "save_to_file": true,
-        "output_directory": "search_results",
-        "include_metadata": true
+    "confidence_levels": {
+      "very_high": 150,
+      "high": 100,
+      "medium": 70,
+      "low": 40
     }
+  }
 }

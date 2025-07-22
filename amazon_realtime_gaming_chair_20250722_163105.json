@@ -1,0 +1,20 @@
+{
+  "products": [],
+  "metadata": {
+    "search_keyword": "gaming chair",
+    "total_products_found": 0,
+    "extraction_timestamp": "2025-07-22T16:31:05.141330",
+    "extraction_stats": {
+      "keyword": "gaming chair",
+      "pages_scraped": 0,
+      "total_products": 0,
+      "scraping_errors": 1,
+      "parsing_errors": 0,
+      "start_time": "2025-07-22T16:30:56.947747",
+      "end_time": "2025-07-22T16:31:05.141330"
+    }
+  },
+  "summary": {
+    "error": "No products found"
+  }
+}
