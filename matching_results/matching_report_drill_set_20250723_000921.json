@@ -1,0 +1,103 @@
+{
+  "search_term": "drill set",
+  "timestamp": "20250723_000921",
+  "total_comparisons": 4,
+  "summary": {
+    "unique_amazon_products": 2,
+    "unique_target_products": 2,
+    "best_match_score": 115.0,
+    "best_match_confidence": "High"
+  },
+  "comparisons": [
+    {
+      "rank": 1,
+      "amazon_product": {
+        "title": "COMOWARE 20V Cordless Drill, Electric Power Drill Set with 1 Battery & Charger, 3/8” Keyless Chuck, 2 Variable Speed, 266 In-lb Torque, 25+1 Position and 34pcs Drill/Driver Bits",
+        "asin": "B08YJTYDD4",
+        "brand": "COMOWARE",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Greenworks 7 Amp 3/8in Keyless Corded Drill",
+        "tcin": "94408455",
+        "brand": "Greenworks",
+        "price": "$39.99"
+      },
+      "match_score": 115.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "price_match": 25,
+        "category_match": 20,
+        "feature_keywords": 5,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 2,
+      "amazon_product": {
+        "title": "Amazon Basics Drill & Driver Multi Bit Set, Alloy Steel Wood Straight Drill Bits, for Metal, Wood, Plastic, Masonry, with Storage Case, 100-Piece",
+        "asin": "B07S96B1LJ",
+        "brand": "Amazon Basics",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Greenworks 28pc Multi-Material Drill and Driver Accy Kit",
+        "tcin": "94408477",
+        "brand": "Greenworks",
+        "price": "$19.99"
+      },
+      "match_score": 85.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "category_match": 20,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 3,
+      "amazon_product": {
+        "title": "COMOWARE 20V Cordless Drill, Electric Power Drill Set with 1 Battery & Charger, 3/8” Keyless Chuck, 2 Variable Speed, 266 In-lb Torque, 25+1 Position and 34pcs Drill/Driver Bits",
+        "asin": "B08YJTYDD4",
+        "brand": "COMOWARE",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Greenworks 28pc Multi-Material Drill and Driver Accy Kit",
+        "tcin": "94408477",
+        "brand": "Greenworks",
+        "price": "$19.99"
+      },
+      "match_score": 85.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "category_match": 20,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 4,
+      "amazon_product": {
+        "title": "Amazon Basics Drill & Driver Multi Bit Set, Alloy Steel Wood Straight Drill Bits, for Metal, Wood, Plastic, Masonry, with Storage Case, 100-Piece",
+        "asin": "B07S96B1LJ",
+        "brand": "Amazon Basics",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Greenworks 7 Amp 3/8in Keyless Corded Drill",
+        "tcin": "94408455",
+        "brand": "Greenworks",
+        "price": "$39.99"
+      },
+      "match_score": 70.0,
+      "confidence": "Medium",
+      "score_breakdown": {
+        "title_similarity": 15.0,
+        "category_match": 20,
+        "product_compatibility": 35.0
+      }
+    }
+  ]
+}

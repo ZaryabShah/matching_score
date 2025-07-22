@@ -1,0 +1,469 @@
+{
+  "basic_info": {
+    "tcin": "90311391",
+    "name": "Sony WF1000XM5 True Wireless Bluetooth Noise Canceling Earbuds",
+    "brand": "Sony",
+    "brand_url": "/b/sony/-/N-5y720",
+    "model_number": "90311391",
+    "manufacturer": "Sony",
+    "upc": "027242925601",
+    "gtin": "027242925601",
+    "asin_equivalent": "90311391",
+    "total_specifications": 14,
+    "extraction_timestamp": "2025-07-23T00:06:54.495689"
+  },
+  "pricing": {
+    "formatted_current_price": "$329.99",
+    "price_type": "reg",
+    "location_id": 3991
+  },
+  "physical_attributes": {
+    "detailed_dimensions": {
+      "Weight": ".4 Pounds"
+    }
+  },
+  "product_details": {
+    "materials": [
+      "Ear Cushion Material: Rubber"
+    ],
+    "product_type": "ELECTRONICS",
+    "product_type_id": 542,
+    "purchase_behavior": "Discretionary",
+    "import_designation": "Imported",
+    "warranty": "Warranty: 1 Year Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+  },
+  "images": {
+    "base_url": "//target.scene7.com/is/image/Target/",
+    "primary_image": {
+      "url": "https://target.scene7.com/is/image/Target/GUEST_c1fef573-5033-4a4a-ab27-46ee55cbacbd",
+      "name": "GUEST_c1fef573-5033-4a4a-ab27-46ee55cbacbd"
+    },
+    "swatch_image": {
+      "url": "https://target.scene7.com/is/image/Target/baseswatch?color=31,34,35",
+      "name": "baseswatch?color=31,34,35"
+    },
+    "alternate_images": [
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_65d69948-6d5f-4593-b9fc-a085ade295eb",
+        "name": "GUEST_65d69948-6d5f-4593-b9fc-a085ade295eb"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_de279183-a0c1-4ad0-9731-e1203227f898",
+        "name": "GUEST_de279183-a0c1-4ad0-9731-e1203227f898"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_eb8819e0-fb6d-44ea-b09c-72d360da1b82",
+        "name": "GUEST_eb8819e0-fb6d-44ea-b09c-72d360da1b82"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_be566aaf-8736-4387-a143-bfccc62dd42e",
+        "name": "GUEST_be566aaf-8736-4387-a143-bfccc62dd42e"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_b6276af8-8312-4ca0-ba0a-6ef37e47cc1d",
+        "name": "GUEST_b6276af8-8312-4ca0-ba0a-6ef37e47cc1d"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_7877ad3a-bde4-4523-bf56-7c92cc2cdc9d",
+        "name": "GUEST_7877ad3a-bde4-4523-bf56-7c92cc2cdc9d"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_1624789a-d9e0-4956-b60f-534ede5828d7",
+        "name": "GUEST_1624789a-d9e0-4956-b60f-534ede5828d7"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_d3887425-b9ce-4d86-b7cc-a86e24384ad6",
+        "name": "GUEST_d3887425-b9ce-4d86-b7cc-a86e24384ad6"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_e64148e6-96fc-4ea0-bbdc-0f06a758cfac",
+        "name": "GUEST_e64148e6-96fc-4ea0-bbdc-0f06a758cfac"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_4317578e-5c39-44da-9e0b-55baa3b3782c",
+        "name": "GUEST_4317578e-5c39-44da-9e0b-55baa3b3782c"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_01260347-7f31-4569-85e4-4e1722972dac",
+        "name": "GUEST_01260347-7f31-4569-85e4-4e1722972dac"
+      }
+    ],
+    "content_labels": [
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=31,34,35"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_eb8819e0-fb6d-44ea-b09c-72d360da1b82"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_b6276af8-8312-4ca0-ba0a-6ef37e47cc1d"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_4317578e-5c39-44da-9e0b-55baa3b3782c"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_c1fef573-5033-4a4a-ab27-46ee55cbacbd"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_d3887425-b9ce-4d86-b7cc-a86e24384ad6"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_be566aaf-8736-4387-a143-bfccc62dd42e"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_de279183-a0c1-4ad0-9731-e1203227f898"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_7877ad3a-bde4-4523-bf56-7c92cc2cdc9d"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_e64148e6-96fc-4ea0-bbdc-0f06a758cfac"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_1624789a-d9e0-4956-b60f-534ede5828d7"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_01260347-7f31-4569-85e4-4e1722972dac"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_65d69948-6d5f-4593-b9fc-a085ade295eb"
+      }
+    ]
+  },
+  "vendor_info": {},
+  "category_info": {
+    "department_name": "TV/HOME ELECTRONICS",
+    "department_id": 8,
+    "class_id": 7,
+    "category_name": "On-Ear & Over-Ear Headphones",
+    "parent_category_id": "5xteg",
+    "breadcrumbs": [
+      {
+        "canonical_url": "/",
+        "category_id": "root",
+        "name": "target"
+      },
+      {
+        "canonical_url": "/c/electronics/-/N-5xtg6",
+        "category_id": "5xtg6",
+        "name": "Electronics"
+      },
+      {
+        "canonical_url": "/c/headphones-electronics/-/N-5xteg",
+        "category_id": "5xteg",
+        "name": "Headphones"
+      },
+      {
+        "canonical_url": "/c/on-ear-over-headphones-electronics/-/N-7olub",
+        "category_id": "7olub",
+        "name": "On-Ear & Over-Ear Headphones"
+      }
+    ]
+  },
+  "reviews": {
+    "average_rating": 4.07,
+    "total_reviews": 581,
+    "rating_distribution": {
+      "rating1": 48,
+      "rating2": 47,
+      "rating3": 58,
+      "rating4": 95,
+      "rating5": 333
+    },
+    "recommended_count": 9,
+    "not_recommended_count": 14,
+    "recommended_percentage": 39,
+    "question_count": 0,
+    "has_verified_reviews": true,
+    "recent_reviews": [
+      {
+        "id": "a483932e-bcbd-4d90-8b62-de70d544bc72",
+        "text": "I bought these and used them for a week and had to purchase a replacement as I grew more and more frustrated. First Impressions were amazing; straight out of the box they are amazing the spatial awareness was impressive and they work great for phone calls. Though majority of my headphone use is active use. As in working out, biking, or working outside. Once I started to move these slip out of my ears. They required constant adjusting when running it seemed every 100 yards I would have to reposition them. When performing weightlifting I had to turn all the smart features off as they kept pausing my music. While performing simple things like pushups they would fall out. Not to mention while sitting at my desk at work the left ear bud would skip for about 3 seconds every minute which was driving me up a wall. I really wanted they ear buds to work as they reminded me of my old galaxy buds I used to love but these are not made for active lifestyles. If you are using them for wearing in the office or for flying on plane, I believe they will work fine but if you find yourself using them in active scenarios I recommend to keep looking.",
+        "author": {
+          "nickname": "Berry36",
+          "external_id": "4156515e-3d31-5f14-85d4-6dbd281a414b"
+        },
+        "title": "Works great for a stationary person",
+        "rating": {
+          "value": 3,
+          "submitted_at": "2025-07-18T17:33:43.000Z"
+        }
+      },
+      {
+        "id": "f00c1084-f1fd-47c8-9f81-c0a57d8e9ca4",
+        "text": "Would not stay connected while using. The firmware updates would not install. Great noise cancelling even without music, but I can find another device that isn't so incredibly difficult for daily use. I will say the functionality of the app is nice, but not nice enough to justify the buggy nature with the price point.",
+        "author": {
+          "nickname": "Jenibee15",
+          "external_id": "1122522651"
+        },
+        "title": "Difficult for daily use",
+        "rating": {
+          "value": 1,
+          "submitted_at": "2025-07-08T15:26:24.394Z"
+        }
+      },
+      {
+        "id": "6e590246-5d86-4798-9252-893d0cecd991",
+        "text": "Great noise canceling feature & battery life is long.",
+        "author": {
+          "nickname": "Brian Wene",
+          "external_id": "20091581104"
+        },
+        "title": "Best earbuds of 2025",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-07T18:54:19.648Z"
+        }
+      },
+      {
+        "id": "4f9e4e89-b4c5-4de8-addb-40b911a5937f",
+        "text": "Aesthetically 5 stars. Overall the experience has been horrible; overall sound quality isn't there, iphone app isnt helpful, and constantly replacing tips --- which aren't made from a quality material and aren't easy to clean. I found that previous in ear expericnes (JBL, Beats, and others) all had quality tips and were cleanable. Once I found tips to replace, different manafacturer, I enjoyed the snug fit of ear piece. I enjoy the shape and design of the headphone in my ear.",
+        "author": {
+          "nickname": "peanutbrittle",
+          "external_id": "f57088b8-3d95-5824-84e6-2d01b0867766"
+        },
+        "title": "A year review",
+        "rating": {
+          "value": 1,
+          "submitted_at": "2025-06-16T16:50:35.000Z"
+        }
+      },
+      {
+        "id": "f83b9984-c753-4ce9-8b1c-b09d8371c751",
+        "text": "I had the headphones and I lost the right side and bought a replacement and I can't pair them. Then i found out that it was a different firmware, so i try to speak with Support and didn't solve anything. They gave me 2 website of companies that supose to fix that issue but when i call them they say that they can not fix that problem no longer. So i'm very desperate, thank for nothing",
+        "author": {
+          "nickname": "Hugod237",
+          "external_id": "213bfaac-3f54-5b90-9d0a-36d5872da3ab"
+        },
+        "title": "YOU DONT WANT TO HELP",
+        "rating": {
+          "value": 1,
+          "submitted_at": "2025-06-15T22:35:30.000Z"
+        }
+      },
+      {
+        "id": "ab6a767e-6546-44c0-a40f-21441d77f4cf",
+        "text": "I´ve been using my WF-1000XM5 earbuds for 1 year+ and they have very good sound quality, I´ll say some pros and cons. Con 1: They only come with foam tips, these tips irretate my ears skin, Had to switch, so I use the silicone tips from the XM3 earbuds, cause they don´t irritate my skin so sadly I have less noice canceling. Con 2: When i put them in the case there is no indicator for each earbud, so sometimes one charges while the other does not. Con 3: Compared to some other earbuds the 8 hour playtime is not the longest. while others can last up to and beyond 18 hours. Pro 1: They have ambient sound, And the noice canceling is good. (Altough I don´t get the best noice canceling cause of the foam.) Pro 2: Comfortable in the ears and don´t stick out too much, so they stay inn without falling out while running. Pro 3: They have very good sound quality, when listening to music and phonecalls. Pro 4: Fast charging times when the earbuds are inn the case.",
+        "author": {
+          "nickname": "Am sum dude",
+          "external_id": "f661302f-8bdb-5992-a06f-d539d9091a01"
+        },
+        "title": "Some good some bad",
+        "rating": {
+          "value": 3,
+          "submitted_at": "2025-06-14T00:52:34.000Z"
+        }
+      },
+      {
+        "id": "1dfa78e4-eacc-4496-ad32-282c8f3da65c",
+        "text": "Really good, excellent sound, good fit, don't fall out.",
+        "author": {
+          "nickname": "Rwalne",
+          "external_id": "adda274e-7225-5156-b564-5aeb0f2531f7"
+        },
+        "title": "Great",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-06-13T10:54:00.000Z"
+        }
+      },
+      {
+        "id": "646d6755-ae8b-4a61-ac77-3a92c7749bf2",
+        "text": "Only con I am facing is while talking on call in noise cancellation mode. The outside noise is captured when I speak and is completely silent when I don't. Hope it could be resolved. Besides highly recommend and best pair to exist.",
+        "author": {
+          "nickname": "AashishCB",
+          "external_id": "7655b6a0-7a1a-525e-9b55-1f23264a79a3"
+        },
+        "title": "Awesome product",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-06-05T07:54:29.000Z"
+        }
+      }
+    ],
+    "review_photos": [
+      "https://target.scene7.com/is/image/Target/GUEST_a6e5b29b-3e79-4670-97e5-8358dc40afdf",
+      "https://target.scene7.com/is/image/Target/GUEST_573ccb6f-ae6c-40af-b720-ba961964eb25",
+      "https://target.scene7.com/is/image/Target/GUEST_69176c77-70e3-4b08-9e09-2ca43f387eca",
+      "https://target.scene7.com/is/image/Target/GUEST_a8a0b525-ec20-4167-9879-bc47950803bd",
+      "https://target.scene7.com/is/image/Target/GUEST_df1bf2a6-7746-452a-9f59-3c4bd4ab3523",
+      "https://target.scene7.com/is/image/Target/GUEST_96087d7f-1a6a-4143-b031-c9f6f26d0006",
+      "https://target.scene7.com/is/image/Target/GUEST_4249fd28-a9e2-4601-9868-1677f286e6a8",
+      "https://target.scene7.com/is/image/Target/GUEST_698816f6-4d48-4c87-be05-40ba51965366",
+      "https://target.scene7.com/is/image/Target/GUEST_d06cdd11-febc-408f-ac10-5aaf209d814b",
+      "https://target.scene7.com/is/image/Target/GUEST_c394ab84-dbe1-48bd-b98a-f4909dfb3312",
+      "https://target.scene7.com/is/image/Target/GUEST_f7fa7450-9963-409f-9948-e2f0567b4174",
+      "https://target.scene7.com/is/image/Target/GUEST_ba028707-8998-4624-ba92-024535b5f53c"
+    ]
+  },
+  "fulfillment": {
+    "return_policies": [
+      {
+        "user_type": "regular_guest",
+        "day_count": 30
+      },
+      {
+        "user_type": "best_guest",
+        "day_count": 60
+      }
+    ]
+  },
+  "variations": {
+    "child_products": [
+      {
+        "tcin": "88914420",
+        "primary_barcode": "027242925601",
+        "price": {
+          "current_retail": 329.99,
+          "display_was_now": false,
+          "formatted_current_price": "$329.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 329.99,
+          "location_id": 3991,
+          "external_system_id": "88914420-3991-329.99-2025070322"
+        },
+        "esp_protection": {
+          "tcin": "51514135",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e",
+              "primary_image": "GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$55.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($300-$349.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 300",
+              "<B>Maximum Qualifying Item Price:</B> 349.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "88914383",
+        "primary_barcode": "027242925618",
+        "price": {
+          "current_retail": 329.99,
+          "display_was_now": false,
+          "formatted_current_price": "$329.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 329.99,
+          "location_id": 3991,
+          "external_system_id": "88914383-3991-329.99-2025070322"
+        },
+        "esp_protection": {
+          "tcin": "51514135",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e",
+              "primary_image": "GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$55.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($300-$349.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 300",
+              "<B>Maximum Qualifying Item Price:</B> 349.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "93069057",
+        "primary_barcode": "027242931527",
+        "price": {
+          "current_retail": 329.99,
+          "display_was_now": false,
+          "formatted_current_price": "$329.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 329.99,
+          "location_id": 3991,
+          "external_system_id": "93069057-3991-329.99-2025070322"
+        },
+        "esp_protection": {
+          "tcin": "51514135",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e",
+              "primary_image": "GUEST_ef592db1-f8fd-4f7f-8b8a-13b27b740f6e"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$55.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($300-$349.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> 24/7 Support, Free 2-Way Shipping, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Failures Due to Spills, Screen Repair, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 300",
+              "<B>Maximum Qualifying Item Price:</B> 349.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "enrichment_data": {
+    "activation_date": "2020-12-01T08:00Z",
+    "open_graph": {
+      "title": "Sony WF1000XM5/P True Wireless Bluetooth Noise Canceling Earbuds - Smoky Pink",
+      "type": "product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_9c7d6b83-7a3c-4de7-b3c4-87bde9e44348",
+      "url": "/p/sony-wf1000xm5-p-true-wireless-bluetooth-noise-canceling-earbud-headphones-smoky-pink/-/A-93069057",
+      "description": "Read reviews and buy Sony WF1000XM5/P True Wireless Bluetooth Noise Canceling Earbuds - Smoky Pink at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    },
+    "twitter_card": {
+      "title": "Sony WF1000XM5/P True Wireless Bluetooth Noise Canceling Earbuds - Smoky Pink",
+      "card": "summary_large_image",
+      "url": "/p/sony-wf1000xm5-p-true-wireless-bluetooth-noise-canceling-earbud-headphones-smoky-pink/-/A-93069057",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_9c7d6b83-7a3c-4de7-b3c4-87bde9e44348",
+      "description": "Read reviews and buy Sony WF1000XM5/P True Wireless Bluetooth Noise Canceling Earbuds - Smoky Pink at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    }
+  },
+  "technical_specs": {
+    "specifications": {
+      "Water Resistance": "Water-Resistant",
+      "Electronics Condition": "New",
+      "Estimated Charge Time": "1.5 Hours",
+      "Electronics Features": "Volume Control, On/Off Switch, Built-In Microphone, Adjustable Ear Buds, Multi-Pairing, Call Functionality",
+      "Connection Type": "USB",
+      "Wireless Technology": "True Wireless",
+      "Package Quantity": "1",
+      "Compatible With": "Siri, Google Assistant, Alexa",
+      "Model name": "WF1000XM5/B",
+      "Noise Canceling": "Noise Canceling",
+      "Microphone": "Built-In Microphone",
+      "Maximum Battery Charge Life": "24 Hours",
+      "Battery": "2 Non-Universal Lithium Ion, Required, Included",
+      "Warranty": "1 Year Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    }
+  },
+  "compatibility": {},
+  "raw_data_sources": []
+}

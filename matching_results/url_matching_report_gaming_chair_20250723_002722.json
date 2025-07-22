@@ -1,0 +1,103 @@
+{
+  "matching_type": "amazon_url_vs_target_search",
+  "amazon_url": "https://amazon.com/dp/B08KTN2NSW",
+  "target_search_term": "gaming chair",
+  "timestamp": "20250723_002722",
+  "total_comparisons": 5,
+  "amazon_product": {
+    "title": "Amazon Basics Ergonomic High-Back Desk Chair, Comfortable Flip-Up Armrests, Contoured Mesh Seat, Swivel, Black, 25.5\"D x 26.25\"W x 49.25\"H",
+    "asin": "B08KTN2NSW",
+    "brand": "Amazon Basics",
+    "price": ""
+  },
+  "summary": {
+    "unique_target_products": 5,
+    "best_match_score": 110.0,
+    "best_match_confidence": "High"
+  },
+  "comparisons": [
+    {
+      "rank": 1,
+      "target_product": {
+        "title": "Costway Ergonomic Office Chair PU Leather Executive Swivel with Flip-up Armrests Brown/White/Black",
+        "tcin": "93317698",
+        "brand": "Costway",
+        "price": "$139.99 - $141.99",
+        "url": ""
+      },
+      "match_score": 110.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 50,
+        "price_match": 25,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 2,
+      "target_product": {
+        "title": "Swivel Dorm Gaming Chair Gray - Room Essentials&#8482;: Upholstered Computer Desk Chair, Adjustable, Fixed Arms",
+        "tcin": "89198190",
+        "brand": "Room Essentials",
+        "price": "$150.00",
+        "url": ""
+      },
+      "match_score": 90.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "price_match": 25,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 3,
+      "target_product": {
+        "title": "GTPLAYER Ergonomic Gaming Chair with Footrest, Lumbar Support, Breathable Computer Chair with Pocket Spring Cushion, Chairs for Adults",
+        "tcin": "93514243",
+        "brand": "GTPLAYER",
+        "price": "$119.99 - $139.99",
+        "url": ""
+      },
+      "match_score": 90.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "price_match": 25,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 4,
+      "target_product": {
+        "title": "Bestier Ergonomic Gaming Chair - PU Leather gaming chair with Adjustable Footrest & Backrest, Lumbar Support",
+        "tcin": "1003228697",
+        "brand": "Bestier",
+        "price": "$108.99 - $129.60",
+        "url": ""
+      },
+      "match_score": 65.0,
+      "confidence": "Medium",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 5,
+      "target_product": {
+        "title": "Bestier 44 inch Gaming Desk with RGB LED Light–Reversible 4-Tier Storage Shelves, Hooks, Cup holder and Magnets",
+        "tcin": "1002391225",
+        "brand": "Bestier",
+        "price": "$79.99",
+        "url": ""
+      },
+      "match_score": 50.0,
+      "confidence": "Medium",
+      "score_breakdown": {
+        "title_similarity": 15.0,
+        "product_compatibility": 35.0
+      }
+    }
+  ]
+}

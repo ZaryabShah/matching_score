@@ -1,0 +1,188 @@
+{
+  "basic_info": {
+    "tcin": "94408455",
+    "name": "Greenworks 7 Amp 3/8in Keyless Corded Drill",
+    "short_description": "Tackle home repairs, DIY projects, and renovations with ease using the Greenworks 7 Amp 3/8\" keyless corded drill. Built for power, precision, and convenience, this drill is the perfect tool for homeowners who need reliable performance for everyday tasks.",
+    "brand": "Greenworks",
+    "model_number": "94408455",
+    "manufacturer": "Greenworks",
+    "asin_equivalent": "94408455",
+    "total_specifications": 11,
+    "extraction_timestamp": "2025-07-23T00:09:19.986242"
+  },
+  "pricing": {
+    "current_price": 39.99,
+    "regular_price": 39.99,
+    "formatted_current_price": "$39.99",
+    "price_type": "reg",
+    "location_id": 3991
+  },
+  "physical_attributes": {
+    "weight": 4,
+    "weight_unit": "POUND",
+    "length": 10.7,
+    "width": 10.7,
+    "height": 2.8,
+    "dimension_unit": "INCH",
+    "detailed_dimensions": {
+      "Dimensions (Overall)": "10.63 Inches (H) x 2.36 Inches (W) x 10.24 Inches (D)",
+      "Weight": "3.91 Pounds"
+    },
+    "dimensions_combined": "10.7 x 10.7 x 2.8 INCH"
+  },
+  "product_details": {
+    "highlights": [
+      "7 Amp Motor delivers strong, consistent power for drilling into wood, metal, and plastic.",
+      "3/8&quot; Keyless Chuck for quick and easy bit changes, with no tools required!",
+      "Variable speed trigger for controlled drilling speed, precision, and versatility.",
+      "Comfortable grip reduces fatigue for extended use.",
+      "Corded for unlimited runtime; No batteries to charge—just plug in and go!",
+      "1-year limited tool warranty."
+    ],
+    "product_type": "GARAGE & HARDWARE",
+    "product_type_id": 106030,
+    "purchase_behavior": "Discretionary",
+    "import_designation": "Imported",
+    "warranty": "Warranty: Lifetime Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+  },
+  "images": {
+    "base_url": "//target.scene7.com/is/image/Target/",
+    "primary_image": {
+      "url": "https://target.scene7.com/is/image/Target/GUEST_d4888d27-7bf6-4eb4-8609-18b9b8bc43f7",
+      "name": "GUEST_d4888d27-7bf6-4eb4-8609-18b9b8bc43f7"
+    },
+    "swatch_image": {
+      "url": null,
+      "name": null
+    },
+    "alternate_images": [
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_58313183-d159-4963-af38-32b9f19211b2",
+        "name": "GUEST_58313183-d159-4963-af38-32b9f19211b2"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_78ea9540-02b1-4d4a-9b39-53ed0c160d81",
+        "name": "GUEST_78ea9540-02b1-4d4a-9b39-53ed0c160d81"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_1d41acaf-7eb9-407d-9c6e-87fa64062f21",
+        "name": "GUEST_1d41acaf-7eb9-407d-9c6e-87fa64062f21"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_0ed0eedf-cdeb-47a6-b29b-b4e73166d3ad",
+        "name": "GUEST_0ed0eedf-cdeb-47a6-b29b-b4e73166d3ad"
+      }
+    ],
+    "content_labels": [
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_d4888d27-7bf6-4eb4-8609-18b9b8bc43f7"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_0ed0eedf-cdeb-47a6-b29b-b4e73166d3ad"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_78ea9540-02b1-4d4a-9b39-53ed0c160d81"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_58313183-d159-4963-af38-32b9f19211b2"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_1d41acaf-7eb9-407d-9c6e-87fa64062f21"
+      }
+    ]
+  },
+  "vendor_info": {},
+  "category_info": {
+    "department_name": "HARDWARE",
+    "department_id": 85,
+    "class_id": 6,
+    "category_name": "Power Tools",
+    "parent_category_id": "5xtsi",
+    "breadcrumbs": [
+      {
+        "canonical_url": "/",
+        "category_id": "root",
+        "name": "target"
+      },
+      {
+        "canonical_url": "/c/home/-/N-5xtvd",
+        "category_id": "5xtvd",
+        "name": "Home"
+      },
+      {
+        "canonical_url": "/c/home-improvement/-/N-5xtt9",
+        "category_id": "5xtt9",
+        "name": "Home Improvement"
+      },
+      {
+        "canonical_url": "/c/tools-tool-sets-home-improvement/-/N-5xtsi",
+        "category_id": "5xtsi",
+        "name": "Tools & Tool Sets"
+      },
+      {
+        "canonical_url": "/c/power-tools-tool-sets-home-improvement/-/N-5xtsf",
+        "category_id": "5xtsf",
+        "name": "Power Tools"
+      }
+    ]
+  },
+  "reviews": {
+    "average_rating": 0,
+    "total_reviews": 0,
+    "rating_distribution": {
+      "rating1": 0,
+      "rating2": 0,
+      "rating3": 0,
+      "rating4": 0,
+      "rating5": 0
+    },
+    "recommended_count": 0,
+    "not_recommended_count": 0,
+    "recommended_percentage": 0,
+    "question_count": 0,
+    "has_verified_reviews": false
+  },
+  "fulfillment": {
+    "purchase_limit": 10,
+    "return_method": "Mail In or Store",
+    "return_policies": [
+      {
+        "user_type": "best_guest",
+        "day_count": 120
+      },
+      {
+        "user_type": "regular_guest",
+        "day_count": 90
+      }
+    ]
+  },
+  "variations": {},
+  "enrichment_data": {
+    "activation_date": "2020-12-01T08:00Z",
+    "open_graph": {
+      "title": "Greenworks 7 Amp 3/8in Keyless Corded Drill",
+      "type": "product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_d4888d27-7bf6-4eb4-8609-18b9b8bc43f7",
+      "url": "/p/greenworks-7amp-3-8-39-39-keyless-corded-drill/-/A-94408455",
+      "description": "Read reviews and buy Greenworks 7 Amp 3/8in Keyless Corded Drill at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    },
+    "twitter_card": {
+      "title": "Greenworks 7 Amp 3/8in Keyless Corded Drill",
+      "card": "summary_large_image",
+      "url": "/p/greenworks-7amp-3-8-39-39-keyless-corded-drill/-/A-94408455",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d4888d27-7bf6-4eb4-8609-18b9b8bc43f7",
+      "description": "Read reviews and buy Greenworks 7 Amp 3/8in Keyless Corded Drill at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    }
+  },
+  "technical_specs": {
+    "specifications": {
+      "Amps Required": "7 Amps",
+      "Volts Required": "24 Volts",
+      "Power Source": "Corded Electric",
+      "Battery": "No Battery Used",
+      "Warranty": "Lifetime Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    }
+  },
+  "compatibility": {},
+  "raw_data_sources": []
+}

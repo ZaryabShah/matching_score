@@ -1,0 +1,58 @@
+{
+  "search_term": "bluetooth headphones",
+  "timestamp": "20250723_000700",
+  "total_comparisons": 2,
+  "summary": {
+    "unique_amazon_products": 1,
+    "unique_target_products": 2,
+    "best_match_score": 84.0,
+    "best_match_confidence": "High"
+  },
+  "comparisons": [
+    {
+      "rank": 1,
+      "amazon_product": {
+        "title": "BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headsets, Deep Bass for Home Office Cellphone PC Ect.",
+        "asin": "B09LYF2ST7",
+        "brand": "BERIBES",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Sony WF1000XM5 True Wireless Bluetooth Noise Canceling Earbuds",
+        "tcin": "90311391",
+        "brand": "Sony",
+        "price": "$329.99"
+      },
+      "match_score": 84.0,
+      "confidence": "High",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "category_match": 14.0,
+        "feature_keywords": 5,
+        "product_compatibility": 35.0
+      }
+    },
+    {
+      "rank": 2,
+      "amazon_product": {
+        "title": "BERIBES Bluetooth Headphones Over Ear, 65H Playtime and 6 EQ Music Modes Wireless Headphones with Microphone, HiFi Stereo Foldable Lightweight Headsets, Deep Bass for Home Office Cellphone PC Ect.",
+        "asin": "B09LYF2ST7",
+        "brand": "BERIBES",
+        "price": ""
+      },
+      "target_product": {
+        "title": "Bose QuietComfort Ultra Bluetooth Wireless Noise Cancelling Headphones",
+        "tcin": "89799764",
+        "brand": "Bose",
+        "price": "$449.99"
+      },
+      "match_score": 79.0,
+      "confidence": "Medium",
+      "score_breakdown": {
+        "title_similarity": 30,
+        "category_match": 14.0,
+        "product_compatibility": 35.0
+      }
+    }
+  ]
+}

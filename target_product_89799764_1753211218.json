@@ -1,0 +1,586 @@
+{
+  "basic_info": {
+    "tcin": "89799764",
+    "name": "Bose QuietComfort Ultra Bluetooth Wireless Noise Cancelling Headphones",
+    "brand": "Bose",
+    "brand_url": "/b/bose/-/N-5y4fi",
+    "model_number": "89799764",
+    "manufacturer": "Bose",
+    "upc": "017817846172",
+    "gtin": "017817846172",
+    "asin_equivalent": "89799764",
+    "total_specifications": 14,
+    "extraction_timestamp": "2025-07-23T00:06:58.955990"
+  },
+  "pricing": {
+    "formatted_current_price": "$449.99",
+    "price_type": "reg",
+    "location_id": 3991
+  },
+  "physical_attributes": {
+    "detailed_dimensions": {
+      "Weight": ".56 Pounds"
+    }
+  },
+  "product_details": {
+    "materials": [
+      "Ear Cushion Material: Leather"
+    ],
+    "product_type": "ELECTRONICS",
+    "product_type_id": 542,
+    "purchase_behavior": "Discretionary",
+    "import_designation": "Imported",
+    "warranty": "Warranty: 1 Year Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+  },
+  "images": {
+    "base_url": "//target.scene7.com/is/image/Target/",
+    "primary_image": {
+      "url": "https://target.scene7.com/is/image/Target/GUEST_f8fa8b39-1780-45e3-bb62-9cb36bf0f21c",
+      "name": "GUEST_f8fa8b39-1780-45e3-bb62-9cb36bf0f21c"
+    },
+    "swatch_image": {
+      "url": "https://target.scene7.com/is/image/Target/baseswatch?color=54,53,57",
+      "name": "baseswatch?color=54,53,57"
+    },
+    "alternate_images": [
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_ad52a70e-42e4-44b9-99da-654fd30ab95e",
+        "name": "GUEST_ad52a70e-42e4-44b9-99da-654fd30ab95e"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_6ec04bbc-b4a6-4a25-b880-7cfd20f533a8",
+        "name": "GUEST_6ec04bbc-b4a6-4a25-b880-7cfd20f533a8"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_7635dc1a-b9f9-4b30-ac06-88fc8bfbed78",
+        "name": "GUEST_7635dc1a-b9f9-4b30-ac06-88fc8bfbed78"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_2c828ee2-d86d-43f1-8ff1-f38dd2685699",
+        "name": "GUEST_2c828ee2-d86d-43f1-8ff1-f38dd2685699"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_11999b7c-0c30-431a-8acc-b224b39fde07",
+        "name": "GUEST_11999b7c-0c30-431a-8acc-b224b39fde07"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_2280f947-c5b1-4a63-b0f8-e8bc6d258108",
+        "name": "GUEST_2280f947-c5b1-4a63-b0f8-e8bc6d258108"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_09d59be9-f4eb-4255-9dfa-539606b2dc46",
+        "name": "GUEST_09d59be9-f4eb-4255-9dfa-539606b2dc46"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_9626d7fd-555c-4301-b87e-7807cfdf4043",
+        "name": "GUEST_9626d7fd-555c-4301-b87e-7807cfdf4043"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_671483dd-3acb-44db-98ce-defd3d757f14",
+        "name": "GUEST_671483dd-3acb-44db-98ce-defd3d757f14"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_c4573e60-d213-461f-888f-5c159b0f635f",
+        "name": "GUEST_c4573e60-d213-461f-888f-5c159b0f635f"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_bb2ad876-1e8e-4ee6-86d8-da50c76276d3",
+        "name": "GUEST_bb2ad876-1e8e-4ee6-86d8-da50c76276d3"
+      }
+    ],
+    "content_labels": [
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_2c828ee2-d86d-43f1-8ff1-f38dd2685699"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_c4573e60-d213-461f-888f-5c159b0f635f"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_bb2ad876-1e8e-4ee6-86d8-da50c76276d3"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_7635dc1a-b9f9-4b30-ac06-88fc8bfbed78"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_11999b7c-0c30-431a-8acc-b224b39fde07"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_2280f947-c5b1-4a63-b0f8-e8bc6d258108"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_6ec04bbc-b4a6-4a25-b880-7cfd20f533a8"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_671483dd-3acb-44db-98ce-defd3d757f14"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_ad52a70e-42e4-44b9-99da-654fd30ab95e"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_9626d7fd-555c-4301-b87e-7807cfdf4043"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_f8fa8b39-1780-45e3-bb62-9cb36bf0f21c"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/baseswatch?color=54,53,57"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_3dc36248-44b0-4c69-910e-4bca05965069"
+      }
+    ]
+  },
+  "vendor_info": {},
+  "category_info": {
+    "department_name": "TV/HOME ELECTRONICS",
+    "department_id": 8,
+    "class_id": 7,
+    "category_name": "On-Ear & Over-Ear Headphones",
+    "parent_category_id": "5xteg",
+    "breadcrumbs": [
+      {
+        "canonical_url": "/",
+        "category_id": "root",
+        "name": "target"
+      },
+      {
+        "canonical_url": "/c/electronics/-/N-5xtg6",
+        "category_id": "5xtg6",
+        "name": "Electronics"
+      },
+      {
+        "canonical_url": "/c/headphones-electronics/-/N-5xteg",
+        "category_id": "5xteg",
+        "name": "Headphones"
+      },
+      {
+        "canonical_url": "/c/on-ear-over-headphones-electronics/-/N-7olub",
+        "category_id": "7olub",
+        "name": "On-Ear & Over-Ear Headphones"
+      }
+    ]
+  },
+  "reviews": {
+    "average_rating": 4.58,
+    "total_reviews": 1052,
+    "rating_distribution": {
+      "rating1": 26,
+      "rating2": 31,
+      "rating3": 53,
+      "rating4": 145,
+      "rating5": 797
+    },
+    "recommended_count": 60,
+    "not_recommended_count": 10,
+    "recommended_percentage": 85,
+    "question_count": 13,
+    "has_verified_reviews": true,
+    "recent_reviews": [
+      {
+        "id": "25ba947d-d486-4d03-8b95-25525d6adb66",
+        "text": "I purchased tjese because my buds were unsuitable, these are terrific",
+        "author": {
+          "nickname": "Ghengis",
+          "external_id": "f3ed53a8-f665-52ee-9be4-a31c632072d6"
+        },
+        "title": "best ever",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-12T13:29:27.000Z"
+        }
+      },
+      {
+        "id": "61701dfe-5020-433a-aff1-a3112d849342",
+        "text": "Great sound, easy to operate! No complaints after only a few days of owning these great looking and sounding headphones. Bose delivers once again!",
+        "author": {
+          "nickname": "J Cruz",
+          "external_id": "5212b85a-8c64-5062-9326-e3a97fadc76e"
+        },
+        "title": "Great!",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-11T14:41:48.000Z"
+        }
+      },
+      {
+        "id": "431567e0-f7d3-49ca-9a32-1a4fb7293a48",
+        "text": "I bought this 3 months ago, the only problem I have experience is the ear foam which is easily damage and is difficult to buy for replacement",
+        "author": {
+          "nickname": "Dens",
+          "external_id": "77af1b5e-0984-5f34-9e84-d5bde5b4de2b"
+        },
+        "title": "great features",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-11T02:34:34.000Z"
+        }
+      },
+      {
+        "id": "4d71f314-4295-45a2-be9d-dbda903d8bad",
+        "text": "The sound is amazing and they are incredibly comfortable.",
+        "author": {
+          "nickname": "Wildcat81",
+          "external_id": "969ae777-13fa-5709-9056-8b8ab32dfbdf"
+        },
+        "title": "Great headphones!",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-10T22:44:11.000Z"
+        }
+      },
+      {
+        "id": "82b23443-ca82-446c-be9f-fd77b121f755",
+        "text": "Adjusting the sound is extremely difficult. The function doesn’t always work. I need to return this item.",
+        "author": {
+          "nickname": "Ok",
+          "external_id": "9183edbd-deff-5a59-b7ff-036db79f6ebb"
+        },
+        "title": "Needs Improvement",
+        "rating": {
+          "value": 3,
+          "submitted_at": "2025-07-10T16:57:01.000Z"
+        }
+      },
+      {
+        "id": "f4b2596c-4543-48bb-b259-c51d5e9fcbd8",
+        "text": "I got these about 4 weeks ago and love them. Excellent choice and product",
+        "author": {
+          "nickname": "None",
+          "external_id": "59613288-5267-591f-a98b-a612a1bd1394"
+        },
+        "title": "Review my quiet comfort",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-05T17:24:53.000Z"
+        }
+      },
+      {
+        "id": "814bb9da-7243-463e-b9c7-e01f607dfcbb",
+        "text": "I’m now the owner of a second pair of Bose QuietComfort Ultra headphones - the first was returned the day after they arrived due to a hissing sound which set in after a few minutes. Already disappointed by the faulty pair, and Bose’s chosen courier which seemed intent on taking their time to return them, a call to Bose meant the replacement pair arrived sooner than they’d initially said they would and I have to say, they’re really good. I only have the QuietComfort Ultra earbuds to compare them to and whilst they’re also brilliant, the headphones are better still, being more comfortable over a few hours. The noise cancellation is superb and the modes offered can be set via the Bose app, or from one of two buttons on the right headphone. I’m not the most technical of people, so the simplicity of a mode button, a Bluetooth button, and a volume sensor which works by sliding your finger against it works for me. When I answered a phone call on them yesterday we could hear one another without any unwanted background noise, and I wandered around the house with my phone charging in a cradle several rooms away without the signal being interrupted (just remember to set the call auto answer function to off so it doesn’t automatically answer spam callers telling you about a crash you didn’t have). They fold away neatly into a smart case which has a pocket to stash away a connecting and a charging cable, and the charge holds for quite a while. After sending back the first pair I expected these to be just as poor and promised myself if I was sent a request to review them the bad pair would earn these just one star, but they’re not, they’re brilliant and I’m impressed with them. Five stars all round.",
+        "author": {
+          "nickname": "Andy",
+          "external_id": "78d3c1b3-94d9-5af7-a959-a594f380296a"
+        },
+        "title": "Disappointingly brilliant",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-05T08:09:51.000Z"
+        }
+      },
+      {
+        "id": "74ce9b6d-dcd3-480c-92be-fa0f2cd0b414",
+        "text": "These pair of headphones are incredible. The controls are the best I've seen, the noise-cancelling is unrivalled, the sound quality is as good as a pair of noise-cancelling headphones can get. The sound stage and sound profile is, coming from an ex Sennheiser in-ear user, very wide and crystal clear. The track separation is INCREDIBLE. Listening to greatly mixed songs on this is a bliss. My only critisism would be the lack of base aptX codec. It has aptX adaptive and Qualcomm sound certification etc.. but Samsung phones only have base aptX for some reason, and these currently run on AAC on my phone. Bose, please fix!",
+        "author": {
+          "nickname": "canbabacan58",
+          "external_id": "44f46d94-8dda-52e9-be40-1859388c5821"
+        },
+        "title": "World's Most Comfortable Headphones",
+        "rating": {
+          "value": 5,
+          "submitted_at": "2025-07-05T05:47:35.000Z"
+        }
+      }
+    ],
+    "review_photos": [
+      "https://target.scene7.com/is/image/Target/GUEST_b40b6a26-7f1e-4e1d-babc-1194046dcac3",
+      "https://target.scene7.com/is/image/Target/GUEST_9ce39cf3-63d0-456a-ba5a-716a89548554",
+      "https://target.scene7.com/is/image/Target/GUEST_21dfc677-2623-46ad-ba65-1e1b1f6ca489",
+      "https://target.scene7.com/is/image/Target/GUEST_0055b815-0bd2-4154-a83a-faa513c72ced",
+      "https://target.scene7.com/is/image/Target/GUEST_13e95fb6-e03b-4102-a4f8-fd3716b530c4",
+      "https://target.scene7.com/is/image/Target/GUEST_80d6cb2b-ddf1-417c-b6e4-1714ff791a8b",
+      "https://target.scene7.com/is/image/Target/GUEST_1f531241-8cc5-4d30-bf82-5eb888815e14",
+      "https://target.scene7.com/is/image/Target/GUEST_19ce1b0e-7fd6-4fb5-ac2a-090bc8510f99",
+      "https://target.scene7.com/is/image/Target/GUEST_b018a537-9af5-4118-90f9-80159ee52adf",
+      "https://target.scene7.com/is/image/Target/GUEST_0a059006-1962-4ee0-bedf-332ed40dff21",
+      "https://target.scene7.com/is/image/Target/GUEST_e15c1319-97e8-4fe1-b9db-06daa2697f35",
+      "https://target.scene7.com/is/image/Target/GUEST_540e82b2-f2ca-41de-9a07-6a5fb656aec2"
+    ]
+  },
+  "fulfillment": {
+    "return_policies": [
+      {
+        "user_type": "regular_guest",
+        "day_count": 30
+      },
+      {
+        "user_type": "best_guest",
+        "day_count": 60
+      }
+    ]
+  },
+  "variations": {
+    "child_products": [
+      {
+        "tcin": "88914398",
+        "primary_barcode": "017817846172",
+        "price": {
+          "current_retail": 449.99,
+          "display_was_now": false,
+          "formatted_current_price": "$449.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 449.99,
+          "location_id": 3991,
+          "external_system_id": "88914398-3991-449.99-2025051918-EPC"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "88914419",
+        "primary_barcode": "017817846141",
+        "price": {
+          "current_retail": 449.99,
+          "display_was_now": false,
+          "formatted_current_price": "$449.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 449.99,
+          "location_id": 3991,
+          "external_system_id": "88914419-3991-449.99-2025051918-EPC"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "90291519",
+        "primary_barcode": "017817846127",
+        "price": {
+          "current_retail": 429.99,
+          "display_was_now": false,
+          "formatted_current_price": "$429.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 429.99,
+          "location_id": 3991,
+          "external_system_id": "90291519-3991-429.99-2024011123"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "92407086",
+        "primary_barcode": "017817854757",
+        "price": {
+          "current_retail": 449.99,
+          "display_was_now": false,
+          "formatted_current_price": "$449.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 449.99,
+          "location_id": 3991,
+          "external_system_id": "92407086-3991-449.99-2025051918-EPC"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "92407079",
+        "primary_barcode": "017817854764",
+        "price": {
+          "current_retail": 449.99,
+          "display_was_now": false,
+          "formatted_current_price": "$449.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 449.99,
+          "location_id": 3991,
+          "external_system_id": "92407079-3991-449.99-2025051918-EPC"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      },
+      {
+        "tcin": "94626635",
+        "primary_barcode": "017817860215",
+        "price": {
+          "current_retail": 449.99,
+          "display_was_now": false,
+          "formatted_current_price": "$449.99",
+          "formatted_current_price_type": "reg",
+          "reg_retail": 449.99,
+          "location_id": 3991,
+          "external_system_id": "94626635-3991-449.99-2025051918-EPC"
+        },
+        "esp_protection": {
+          "tcin": "51514138",
+          "enrichment": {
+            "images": {
+              "base_url": "//target.scene7.com/is/image/Target/",
+              "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871",
+              "primary_image": "GUEST_0889362b-4501-45a5-a5d0-66a3ec0c6871"
+            }
+          },
+          "price": {
+            "formatted_current_price": "$65.00",
+            "formatted_current_price_type": "reg"
+          },
+          "product_description": {
+            "title": "2 Year Headphones &#38; Speakers Protection Plan with Accidents Coverage ($400-$449.99) - Allstate",
+            "bullet_descriptions": [
+              "<B>Benefits:</B> Free 2-Way Shipping, 24/7 Support, No Deductible, No Additional Cost",
+              "<B>Support:</B> Online, Phone",
+              "<B>Includes:</B> Failures Due to Drops, Accidental Damage From Handling Coverage, Mechanical Defects, Normal Wear and Tear Coverage, Screen Repair, Failures Due to Spills, Electrical Defects",
+              "<B>Minimum Qualifying Item Price:</B> 400",
+              "<B>Maximum Qualifying Item Price:</B> 449.99",
+              "<B>Service plan type:</B> Allstate - Headphones Speakers",
+              "<B>Number of years protected:</B> 2 years"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "enrichment_data": {
+    "activation_date": "2020-12-01T08:00Z",
+    "open_graph": {
+      "title": "Bose Ultra QuietComfort Over-Ear Headphones with Noise Cancelling - Deep Plum",
+      "type": "product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_fe9f1878-e1e1-4923-bc13-4949f54a7aba",
+      "url": "/p/bose-ultra-quietcomfort-over-ear-headphones-with-noise-cancelling-deep-plum/-/A-94626635",
+      "description": "Read reviews and buy Bose Ultra QuietComfort Over-Ear Headphones with Noise Cancelling - Deep Plum at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    },
+    "twitter_card": {
+      "title": "Bose Ultra QuietComfort Over-Ear Headphones with Noise Cancelling - Deep Plum",
+      "card": "summary_large_image",
+      "url": "/p/bose-ultra-quietcomfort-over-ear-headphones-with-noise-cancelling-deep-plum/-/A-94626635",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_fe9f1878-e1e1-4923-bc13-4949f54a7aba",
+      "description": "Read reviews and buy Bose Ultra QuietComfort Over-Ear Headphones with Noise Cancelling - Deep Plum at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    }
+  },
+  "technical_specs": {
+    "specifications": {
+      "Water Resistance": "No Water Resistance Rating",
+      "Electronics Condition": "New",
+      "Estimated Charge Time": "3 Hours",
+      "Cable/Cord Length": "39 Inches",
+      "Electronics Features": "On/Off Switch, Lightweight Design, Automatic Shut-Off, Foldable Design, Multi-Pairing, Adjustable Headband, Multifunction Button, Volume Control, indicator light, Call Functionality, Automatic Pairing, Spatial Audio, Tangle-Resistant Cable, Detachable Cable, Built-In Microphone",
+      "Connection Type": "USB-C, 3.5mm Jack",
+      "Wireless Technology": "Wireless",
+      "Package Quantity": "1",
+      "Compatible With": "Android, Apple iOS",
+      "Noise Canceling": "Noise Canceling",
+      "Microphone": "Built-In Microphone",
+      "Maximum Battery Charge Life": "24 Hours",
+      "Battery": "1 Non-Universal Lithium, Required, Included",
+      "Warranty": "1 Year Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    }
+  },
+  "compatibility": {},
+  "raw_data_sources": []
+}

@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "tcin": "94408477",
+    "name": "Greenworks 28pc Multi-Material Drill and Driver Accy Kit",
+    "short_description": "Take on any household project with the Greenworks 28-piece multi-material drill & driver accessory kit—the perfect set for homeowners, DIYers, and weekend warriors! Designed for wood, metal, plastic, and masonry, this all-in-one kit gives you the versatility and durability you need to tackle repairs, installations, and renovations with confidence.<br /><br />Includes:<br />Impact Magnetic Bit Holder: 60mm / 2-3/8\"<br /><br />Drill Bits:<br />1/16\" 1,59 MM<br />5/64\" 1,98 MM<br />3/32\" 2,38 MM<br />7/64\" 2,78 MM<br />1/8\" 3,18 MM<br />9/64\" 3,57 MM<br />5/32\" 3,97 MM<br />11/64\" 4,37 MM<br />3/16\" 4,76 MM<br />13/64\" 5,16 MM<br />7/32\" 5,56 MM<br />1/4\" 6,35 MM<br /><br />Fastener Bits<br />PH1 (1”)<br />PH2 (1\")<br />PH3 (1\")<br />SL6 (1\")<br />SL8 (1\")<br />SL10 (1\")<br />SQ2 (1\")<br />T25 (1\")<br />PH1 (2\")<br />PH2 (2\")<br />PH3 (2\")<br />SL4 (2\")<br />SL6 (2\")<br />SL8 (2\")<br />SQ2 (2\")",
+    "brand": "Greenworks",
+    "model_number": "94408477",
+    "manufacturer": "Greenworks",
+    "asin_equivalent": "94408477",
+    "total_specifications": 8,
+    "extraction_timestamp": "2025-07-23T00:09:14.211188"
+  },
+  "pricing": {
+    "current_price": 19.99,
+    "regular_price": 19.99,
+    "formatted_current_price": "$19.99",
+    "price_type": "reg",
+    "location_id": 3991
+  },
+  "physical_attributes": {
+    "weight": 1.21,
+    "weight_unit": "POUND",
+    "length": 1.69,
+    "width": 9.49,
+    "height": 10,
+    "dimension_unit": "INCH",
+    "detailed_dimensions": {
+      "Dimensions (Overall)": "10 Inches (H) x 9.49 Inches (W) x 1.69 Inches (D)",
+      "Weight": "1.03 Pounds"
+    },
+    "dimensions_combined": "1.69 x 9.49 x 10 INCH"
+  },
+  "product_details": {
+    "highlights": [
+      "Comprehensive 28-piece set includes drill bits, driver bits, and more for all your needs.",
+      "135-degree split-point tips precent slipping.",
+      "Durable, titanium-coated bits designed for precision and long-lasting performance.",
+      "Works with most corded and cordless drills for easy use.",
+      "Perfect for everyday tasks, from hanging shelves to assembling furniture, installing fixtures, and more!",
+      "Compact storage case keeps everything organized and ready to go.",
+      "1-year limited tool warranty."
+    ],
+    "product_type": "GARAGE & HARDWARE",
+    "product_type_id": 106030,
+    "purchase_behavior": "Discretionary",
+    "import_designation": "Imported",
+    "warranty": "Warranty: Lifetime Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+  },
+  "images": {
+    "base_url": "//target.scene7.com/is/image/Target/",
+    "primary_image": {
+      "url": "https://target.scene7.com/is/image/Target/GUEST_d3121010-86ff-4426-a8fd-8f72b135f7eb",
+      "name": "GUEST_d3121010-86ff-4426-a8fd-8f72b135f7eb"
+    },
+    "swatch_image": {
+      "url": null,
+      "name": null
+    },
+    "alternate_images": [
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_90e05f79-9d18-4f00-a7e1-2e8ae87a2658",
+        "name": "GUEST_90e05f79-9d18-4f00-a7e1-2e8ae87a2658"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_3a0f029e-809c-442c-afcd-960033acaecf",
+        "name": "GUEST_3a0f029e-809c-442c-afcd-960033acaecf"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_2d09335d-aa5f-48ce-b880-913d04b5ad01",
+        "name": "GUEST_2d09335d-aa5f-48ce-b880-913d04b5ad01"
+      },
+      {
+        "url": "https://target.scene7.com/is/image/Target/GUEST_efddf0af-c0aa-445c-bb9f-3b128658a882",
+        "name": "GUEST_efddf0af-c0aa-445c-bb9f-3b128658a882"
+      }
+    ],
+    "content_labels": [
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_d3121010-86ff-4426-a8fd-8f72b135f7eb"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_0ed0eedf-cdeb-47a6-b29b-b4e73166d3ad"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_90e05f79-9d18-4f00-a7e1-2e8ae87a2658"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_2d09335d-aa5f-48ce-b880-913d04b5ad01"
+      },
+      {
+        "image_url": "https://target.scene7.com/is/image/Target/GUEST_3a0f029e-809c-442c-afcd-960033acaecf"
+      }
+    ]
+  },
+  "vendor_info": {},
+  "category_info": {
+    "department_name": "HARDWARE",
+    "department_id": 85,
+    "class_id": 6,
+    "category_name": "Power Tools",
+    "parent_category_id": "5xtsi",
+    "breadcrumbs": [
+      {
+        "canonical_url": "/",
+        "category_id": "root",
+        "name": "target"
+      },
+      {
+        "canonical_url": "/c/home/-/N-5xtvd",
+        "category_id": "5xtvd",
+        "name": "Home"
+      },
+      {
+        "canonical_url": "/c/home-improvement/-/N-5xtt9",
+        "category_id": "5xtt9",
+        "name": "Home Improvement"
+      },
+      {
+        "canonical_url": "/c/tools-tool-sets-home-improvement/-/N-5xtsi",
+        "category_id": "5xtsi",
+        "name": "Tools & Tool Sets"
+      },
+      {
+        "canonical_url": "/c/power-tools-tool-sets-home-improvement/-/N-5xtsf",
+        "category_id": "5xtsf",
+        "name": "Power Tools"
+      }
+    ]
+  },
+  "reviews": {
+    "average_rating": 0,
+    "total_reviews": 0,
+    "rating_distribution": {
+      "rating1": 0,
+      "rating2": 0,
+      "rating3": 0,
+      "rating4": 0,
+      "rating5": 0
+    },
+    "recommended_count": 0,
+    "not_recommended_count": 0,
+    "recommended_percentage": 0,
+    "question_count": 0,
+    "has_verified_reviews": false
+  },
+  "fulfillment": {
+    "purchase_limit": 10,
+    "return_method": "Mail In or Store",
+    "return_policies": [
+      {
+        "user_type": "best_guest",
+        "day_count": 120
+      },
+      {
+        "user_type": "regular_guest",
+        "day_count": 90
+      }
+    ]
+  },
+  "variations": {},
+  "enrichment_data": {
+    "activation_date": "2020-12-01T08:00Z",
+    "open_graph": {
+      "title": "Greenworks 28pc Multi-Material Drill and Driver Accy Kit",
+      "type": "product",
+      "image": "https://target.scene7.com/is/image/Target/GUEST_d3121010-86ff-4426-a8fd-8f72b135f7eb",
+      "url": "/p/greenworks-28pc-multi-material-drill-and-driver-accy-kit/-/A-94408477",
+      "description": "Read reviews and buy Greenworks 28pc Multi-Material Drill and Driver Accy Kit at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    },
+    "twitter_card": {
+      "title": "Greenworks 28pc Multi-Material Drill and Driver Accy Kit",
+      "card": "summary_large_image",
+      "url": "/p/greenworks-28pc-multi-material-drill-and-driver-accy-kit/-/A-94408477",
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d3121010-86ff-4426-a8fd-8f72b135f7eb",
+      "description": "Read reviews and buy Greenworks 28pc Multi-Material Drill and Driver Accy Kit at Target. Choose from contactless Same Day Delivery, Drive Up and more."
+    }
+  },
+  "technical_specs": {
+    "specifications": {
+      "Warranty": "Lifetime Limited Warranty. To obtain a copy of the manufacturer's or supplier's warranty for this item prior to purchasing the item, please call Target Guest Services at 1-800-591-3869"
+    }
+  },
+  "compatibility": {},
+  "raw_data_sources": []
+}

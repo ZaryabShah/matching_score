@@ -59,7 +59,7 @@
     "in_stock": true
   },
   "shipping": {
-    "delivery_info": "Delivery Thursday, July 31. Order within 19 hrs 36 mins",
+    "delivery_info": "Delivery Thursday, July 31. Order within 17 hrs 18 mins",
     "prime_eligible": true
   },
   "variations": {},
@@ -178,6 +178,6 @@
   },
   "asin": "B08KTN2NSW",
   "source_url": "https://www.amazon.com/dp/B08KTN2NSW/",
-  "parsed_at": "2025-07-22T22:08:45.966283",
+  "parsed_at": "2025-07-23T00:26:43.575602",
   "fingerprint": "2f28859feea365d5e34f94edefac9b4e"
 }
